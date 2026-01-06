@@ -35,7 +35,7 @@ End-to-end analytics solution using Google BigQuery and Looker Studio.
 
 1. Clone repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/nyc-taxi-dashboard.git
+git clone https://github.com/sudsharma33/nyc-taxi-dashboard.git
 cd nyc-taxi-dashboard
 ```
 
